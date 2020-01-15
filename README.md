@@ -8,6 +8,7 @@ Observações:
     - Custom Count and Sum;
     - Add Reminders;
 
+
 - Guia "Lembretes" para enviar email automático 1 dia antes (configurável) das contas à pagar.
 - Guia "Faturas" descontando valores já registrados em outras guias (sublinhados), para não repetir valor.
 
